@@ -1,6 +1,6 @@
 /*Write a program which accepts a temperature value in Fahrenheit and converts it to Celsius and
 displays it.*/
-git 
+
 #include <iostream>
 using namespace std;
 float farenheit,conversion;
